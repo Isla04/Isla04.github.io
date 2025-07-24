@@ -1,0 +1,34 @@
+h1 {
+    font-size: 5em;
+}
+
+/* .big {
+    font-size: 15em;
+} */
+
+/* .small {
+    font-size: 1em;
+} */
+
+
+.bg {
+    background-color:blueviolet;
+}
+
+body {
+    background-color:rebeccapurple;
+}
+
+.Hlbg {
+    background-color:burlywood;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-right: 10px;
+}
